@@ -1,6 +1,6 @@
 {
   "name": "@mayntri/react-sdk",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "type": "module",
   "homepage": "http://mayntri.github.io/react-sdk",
   "scripts": {
