@@ -11,7 +11,7 @@
     "format": "prettier --write src//**/*.{ts,tsx,css} --config ./.prettierrc"
   },
   "dependencies": {
-    "@mayntri/sdk": "^1.0.4",
+    "@mayntri/sdk": "^1.0.5",
     "@tanstack/react-query": "4.22.0 || >=^4.*",
     "react": "16.8.0 || >=17.x",
     "react-dom": "16.8.0 || >=17.x"
